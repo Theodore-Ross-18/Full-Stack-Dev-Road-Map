@@ -1,0 +1,3 @@
+# ***What is Full Stack Development?***
+
+> Full stack development is the practice of being proficient in both the front-end and back-end aspects of web application development. A full stack developer is capable of working on all layers of a software application, from the user interface and user experience (front-end) to the server, database, and server-side logic (back-end). This versatility allows them to create and maintain complete web applications independently or as part of a development team.
